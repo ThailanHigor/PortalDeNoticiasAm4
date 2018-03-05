@@ -1,0 +1,100 @@
+body{
+	background-color: black !important;
+}
+
+header{
+	height: 150px;
+	background-color: orange;
+	color:black;
+
+}
+html,body{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	position: relative; 
+	width:100%;
+}
+
+.box-dados{
+	margin-left: 40px;
+	float: left;
+	position: relative;
+
+
+}
+
+#nova-noticia{
+	margin-left: 50px;
+}
+
+.area-admin{
+	border-radius: 10px;
+	height: 50px;
+	width: 100px;
+	float: right;
+	margin-top:20px;
+	margin-right: 15px;
+
+}
+
+#logotipo{
+	border-style: inset;
+	display: inline-block;
+	position:absolute;
+	margin-top:-1%;
+}
+
+
+.nav-filtros{
+	height: 50px;
+	background-color: white;
+}
+.nav-botoes{
+	float: right;
+	padding: 10px;
+	margin-right: 5px;
+
+}
+
+.lista-noticias{
+	border-radius: 8px;
+	margin-top: 50px;
+	margin-left: 80px;
+	height: 400px;
+	background-color: white;
+	width:90%;
+	position: relative;
+	}
+
+.menu-adm{
+	border: 1px solid;	
+	border-color: white;
+	background-color: black;
+	margin-top: 3.6%;
+	border-radius: 5px;
+	height: auto;
+	margin-left: 1%;
+
+
+
+}
+	
+.lista-crud{
+	border-radius: 8px;
+	margin-top: 50px;
+	margin-left: 2%;
+	height: 400px;
+	background-color: white;
+	width:100%;
+
+}
+
+
+.btn-group-vertical{
+	width: 130px;
+	display: block;
+
+}
+
